@@ -13,4 +13,4 @@
 
 .idea/*
 .idea
-app/vendor/*
+src/vendor/*
